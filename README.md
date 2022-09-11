@@ -1,4 +1,4 @@
-# [Airtel-Hackathon-2022](https://www.techgig.com/hackathon/airteliq-edtech)
+# [Airtel-IQ-Hackathon-2022](https://www.techgig.com/hackathon/airteliq-edtech)
 
 ## Transforming parent and student engagement for better learning experiences
 
